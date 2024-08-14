@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Comment contribuer à Angular",
+      "date": "1723446888757",
+      "type": "interview",
+      "imageUrl": "",
+      "invitees": ["Matthieu Riegler"],
+      "youtubeUrl": "https://www.youtube.com/embed/tfcsGzQmyjA?si=ZM0WnX1z_hV5Ub01&t=3164"
+    },
+    {
+      "id": "2",
+      "title": "The next generation of Angular Application",
+      "date": "1723446888757",
+      "type": "présentation",
+      "imageUrl": "",
+      "invitees": ["Nicolas Frizzarin"],
+      "youtubeUrl": "https://www.youtube.com/embed/tfcsGzQmyjA?si=8GOHg_J73AhToNJY&t=247"
+    },
+    {
+      "id": "3",
+      "title": "Table ronde Angular 17",
+      "date": "1723446888757",
+      "type": "présentation",
+      "imageUrl": "",
+      "invitees": ["Edouard Bozon", "Cédric Exbrayat", "Guillaume Nury", "Laurent Duveau"],
+      "youtubeUrl": "https://youtube.com/embed/YBty95aSP6c?feature=share"
+    }
+  ]
+}

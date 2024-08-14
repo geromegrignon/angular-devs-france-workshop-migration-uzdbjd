@@ -1,0 +1,3 @@
+- Utiliser `withComponentInputBindings()` pour passer des données à un composant
+- utiliser `@for` pour les boucles
+- utiliser `@defer` pour YouTube
